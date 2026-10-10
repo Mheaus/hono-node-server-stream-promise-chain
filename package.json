@@ -1,0 +1,12 @@
+{
+  "name": "hono-node-server-stream-promise-chain",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings repro.mjs"
+  },
+  "dependencies": {
+    "@hono/node-server": "2.1.4",
+    "hono": "4.12.31"
+  }
+}
